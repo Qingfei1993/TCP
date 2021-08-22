@@ -7,7 +7,7 @@ def recive_task(client):
     print('虎跑调：%s' % recive_data)
 
 
-# 虎跑调
+# 兔任性
 host = '192.168.1.103'
 port = 8081
 
